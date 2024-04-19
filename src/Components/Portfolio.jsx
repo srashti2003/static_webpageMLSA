@@ -31,28 +31,28 @@ const imageAltText = "organized desk with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Hit Hellion",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Implemented oops in python and pygame library to make diverse movements of Hellion to hit the enemies through gun and score high to win.",
+    url: "https://github.com/srashti2003/pygame-hitHellion",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Fake News Detector",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Utilized nltk's features to preprocess text data and sklearn features to convert text into numeric form so that it identify the news real or fake.",
+    url: "https://github.com/srashti2003/Fake-News-Detector",
   },
   {
-    title: "My Resume Site",
+    title: "Handwritten Digit Recognition",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Recognizes handwritten digits using sklearn and data visualization libraries of python to identify the digits.",
+    url: "https://github.com/srashti2003/handwritten_digit_recognition",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Stock Price Prediction Model",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This model predicts the stock price Prediction of Amazon using LSTM Model. This is based on Deep Learning, RNN, ML concepts, numerical and textual analysis.",
+    url: "https://github.com/srashti2003/stockprice_model",
   },
 ];
 

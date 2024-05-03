@@ -25,7 +25,7 @@ const Education = () => {
                 Bachelor of Technology in Computer Science and Engineering
               </h3>
               <p className="education-content__item-subheader" style={{ fontSize: "18px", color: "#666", marginBottom: "5px" }}>
-                Samrat Ashok Technology Institute, Vidisha (M.P.), India
+                Samrat Ashok Technology Institute, Vidisha (M.P), India
               </p>
               <p className="education-content__item-date" style={{ fontSize: "16px", color: "#999", marginBottom: "20px" }}>2021 - 2025</p>
             </div>

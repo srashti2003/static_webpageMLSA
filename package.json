@@ -4,7 +4,7 @@
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
   "homepage": "https://srashti2003.github.io/static_webpageMLSA",
-  "scripts": { 
+  "scripts": {
     "start": "parcel",
     "build": "parcel build",
     "build-gh": "parcel build --public-url 'https://srashti2003.github.io/static_webpageMLSA'",
@@ -32,7 +32,7 @@
     "eslint-plugin-react": "^7.31.7",
     "gh-pages": "^4.0.0",
     "html-webpack-plugin": "^5.5.0",
-    "parcel": "^2.7.0",
+    "parcel": "^2.12.0",
     "prettier": "^2.7.1",
     "process": "^0.11.10"
   }

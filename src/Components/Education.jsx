@@ -14,7 +14,8 @@ const imageAltText = "simple education page bg";
  */
 const Education = () => {
   return (
-    <div className="education" style={{ backgroundColor: "#f0f0f0", padding: "50px 0" }}>
+    <div id="education">
+    <div  className="education" style={{ backgroundColor: "#f0f0f0", padding: "50px 0" }}>
       <div className="container" style={{ maxWidth: "800px", margin: "0 auto" }}>
         <div className="education-details">
           <h2 className="education-header" style={{ textAlign: "center", marginBottom: "30px" }}>Education</h2>
@@ -40,6 +41,7 @@ const Education = () => {
           </div>
         </div>
       </div>
+    </div>
     </div>
   );
 }
